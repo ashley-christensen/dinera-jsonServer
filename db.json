@@ -1,0 +1,282 @@
+{
+	"dines": [
+		{
+			"id": 0,
+			"name": "Brunch Deluxe",
+			"image": "images/brunches.jpg",
+			"cost": "$$",
+			"featured": false,
+			"description": "Luxurious platters of the freshest harvest, begin your day or end your weekend with the most dazzling of all brunches."
+		},
+		{
+			"id": 1,
+			"name": "Dinner and Dine",
+			"image": "images/dinner.jpg",
+			"cost": "$$$",
+			"featured": false,
+			"description": "Spend an evening dining on breathtaking and delicious trays from around the world. Straight from local and organic farms."
+		},
+		{
+			"id": 2,
+			"name": "Happy Hour Escape",
+			"image": "images/cocktails.jpg",
+			"cost": "$",
+			"featured": false,
+			"description": "Let our happy hour take away your stress. Sit back, relax, and enjoy our most elegant cocktails."
+		},
+		{
+			"id": 3,
+			"name": "Dessert Delicacies",
+			"image": "images/desserts.jpg",
+			"cost": "$$",
+			"featured": true,
+			"description": "Once you try one of our world famous desserts, you will never quit coming back."
+		}
+	],
+	"comments": [
+		{
+			"id": 0,
+			"dineId": 0,
+			"rating": 5,
+			"text": "The brunch is incredible, much better than others in town.",
+			"author": "Elon Mixer",
+			"date": "2018-10-25T16:30Z"
+		},
+		{
+			"id": 1,
+			"dineId": 0,
+			"rating": 3,
+			"text": "The waffles are spectacular... so my wife ate all mine.",
+			"author": "Alicia Kazzi",
+			"date": "2017-06-17T03:33Z"
+		},
+		{
+			"id": 2,
+			"dineId": 0,
+			"rating": 4,
+			"text": "The egg dishes are all great, but they are absolutely best poached.",
+			"author": "Benjamin Morey",
+			"date": "2019-02-18T18:12Z"
+		},
+		{
+			"id": 3,
+			"dineId": 0,
+			"rating": 3,
+			"text": "Avoid Sundays; couldn't relax and play my flute with all the noisy kids.",
+			"author": "Elise Kanton",
+			"date": "2019-08-04T20:11Z"
+		},
+		{
+			"id": 4,
+			"dineId": 0,
+			"rating": 5,
+			"text": "This has been our favorite restaurant for over 7 years. It is an absolutely beautiful establishment. The hosts are very friendly and helpful. Don't forget to try out the Salmon and Locks.",
+			"author": "Bryant Posy",
+			"date": "2018-07-23T19:44Z"
+		},
+		{
+			"id": 5,
+			"dineId": 1,
+			"rating": 4,
+			"text": "There's nothing more fun than coming to dinner at Dinera and relaxing for hours.",
+			"author": "Michelle Ali",
+			"date": "2017-06-17T03:33Z"
+		},
+		{
+			"id": 6,
+			"dineId": 1,
+			"rating": 5,
+			"text": "I tried the world-class fillet mignon here on my last visit, and it was mind blowing.",
+			"author": "Rachel Soprano",
+			"date": "2019-02-18T18:12Z"
+		},
+		{
+			"id": 7,
+			"dineId": 1,
+			"rating": 5,
+			"text": "The restaurant was beautiful, but they are often reserved out for a few days.",
+			"author": "Kwame Britain",
+			"date": "2019-08-04T20:11Z"
+		},
+		{
+			"id": 8,
+			"dineId": 1,
+			"rating": 4,
+			"text": "Love the menu but they were out of menu items with grapefruit.",
+			"author": "Sadie Harris",
+			"date": "2018-07-23T19:44Z"
+		},
+		{
+			"id": 9,
+			"dineId": 1,
+			"rating": 5,
+			"text": "A wonderful place to try new foods and know it will taste great.",
+			"author": "Jordan Modelo",
+			"date": "2019-08-04T20:11Z"
+		},
+		{
+			"id": 10,
+			"dineId": 2,
+			"rating": 5,
+			"text": "The Frozen Pineapple is amazing, but it is strong so be careful!",
+			"author": "Christopher Wallace",
+			"date": "2019-02-18T18:12Z"
+		},
+		{
+			"id": 11,
+			"dineId": 2,
+			"rating": 1,
+			"text": "We had to leave about 2am to go back to the home because the party lasted too long!",
+			"author": "George Lucas",
+			"date": "2018-10-25T16:30Z"
+		},
+		{
+			"id": 12,
+			"dineId": 2,
+			"rating": 5,
+			"text": "The stars from the rooftop make it a great place for drinks!",
+			"author": "Diana Rosen",
+			"date": "2018-07-23T19:44Z"
+		},
+		{
+			"id": 13,
+			"dineId": 2,
+			"rating": 4,
+			"text": "Easy parking and a nice place to have a drink after work.",
+			"author": "Amy Gambino",
+			"date": "2018-10-25T16:30Z"
+		},
+		{
+			"id": 14,
+			"dineId": 2,
+			"rating": 5,
+			"text": "Perfect scenery and nice jazz music to sit back!",
+			"author": "Janessa Messey",
+			"date": "2019-08-04T20:11Z"
+		},
+		{
+			"id": 15,
+			"dineId": 3,
+			"rating": 4,
+			"text": "Just remember too much sugar will make you sleepy...",
+			"author": "Penny Delphi",
+			"date": "2017-06-17T03:33Z"
+		},
+		{
+			"id": 16,
+			"dineId": 3,
+			"rating": 5,
+			"text": "Excellent desserts to cleanse the palette after a nice meal.",
+			"author": "Jenna Maui",
+			"date": "2018-07-23T19:44Z"
+		},
+		{
+			"id": 17,
+			"dineId": 3,
+			"rating": 5,
+			"text": "What magnificent flourles chocolate cake!",
+			"author": "Martin Post",
+			"date": "2018-10-25T16:30Z"
+		},
+		{
+			"id": 18,
+			"dineId": 3,
+			"rating": 4,
+			"text": "The desserts are huge! We felt like we might not be able to walk out, in a good way.",
+			"author": "Anisha Brodst",
+			"date": "2017-06-17T03:33Z"
+		},
+		{
+			"id": 19,
+			"dineId": 3,
+			"rating": 5,
+			"text": "The photos don't do justice to the wonder of these desserts.",
+			"author": "Ashley Adrena",
+			"date": "2019-02-18T18:12Z"
+		},
+		{
+			"dineId": 3,
+			"rating": "2",
+			"author": "asdf",
+			"text": "asdfasdf",
+			"date": "2022-07-26T01:22:02.111Z",
+			"id": 20
+		}
+	],
+	"partners": [
+		{
+			"id": 0,
+			"name": "Svelte Car Service",
+			"image": "images/fles.jpg",
+			"featured": false,
+			"description": "Svelte car service provides transport to and from anywhere in the city, with special rates for Dinera patrons."
+		},
+		{
+			"id": 1,
+			"name": "Club Channing",
+			"image": "images/club.jpg",
+			"featured": false,
+			"description": "Join us afterhours so the night never ends!"
+		},
+		{
+			"id": 2,
+			"name": "SF Barber",
+			"image": "images/barber.jpg",
+			"featured": false,
+			"description": "Need a new cut for your big night? We are next door and have you covered."
+		},
+		{
+			"id": 3,
+			"name": "Let's Cafe",
+			"image": "images/cafe.jpg",
+			"featured": true,
+			"description": "From Taiwanese to French, our pastries are delivered fresh to Dinera, daily."
+		}
+	],
+	"promotions": [
+		{
+			"id": 0,
+			"name": "Romance for Two",
+			"image": "images/romance.jpg",
+			"featured": true,
+			"cost": 325,
+			"description": "Enjoy a Romantic evening with stunning views, and rooftop experience."
+		},
+		{
+			"id": 1,
+			"name": "Rustic Picnic",
+			"image": "images/picnic.jpg",
+			"featured": false,
+			"cost": 199,
+			"description": "This oceanside picnic combines adventure with relaxation"
+		},
+		{
+			"id": 2,
+			"name": "Vegetarian Deluxe",
+			"image": "images/vegetarian.jpg",
+			"featured": false,
+			"cost": 125,
+			"description": "A 5 course vegetarian meal so good you will forget about meat"
+		},
+		{
+			"id": 3,
+			"name": "Party for 12",
+			"image": "images/party.jpg",
+			"featured": false,
+			"cost": 1099,
+			"description": "Celebrate with friends and family with our deluxe party room and selections"
+		}
+	],
+	"feedback": [
+		{
+			"id": 0,
+			"firstname": "Test",
+			"lastname": "Test",
+			"phoneNum": "12345",
+			"email": "test@test.com",
+			"agree": true,
+			"contactType": "Email",
+			"feedback": "test"
+		}
+	]
+}
